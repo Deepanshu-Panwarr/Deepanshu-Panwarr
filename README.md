@@ -1,4 +1,48 @@
-## Hi there 👋
+# Hi👋, I'm Deepanshu Panwar
+
+- B.Tech computer Science Student
+- Aspiring Web Developer
+- Currently Learning Full Stack Development
+- Passionate about building real-world web applications
+
+---
+
+## Skills
+
+**Programming Languages:**
+C | C++ | JavaScript
+
+**Frontend Development:**
+HTML | CSS | React.js
+
+**Databases:**
+SQL
+
+**Tools:**
+Git | GitHub | VS Code
+
+---
+
+## Currently Learning
+- Data Structure and Algorithms
+- Backend Development
+- Full Stack Projects
+
+---
+
+## Goals
+- Improve problem-solving skills
+- Build industry-level projects
+- Become a better Software Developer
+
+---
+
+## Connect with me
+LinkedIn: www.linkedin.com/in/deepanshu-panwar-155103416
+
+---
+
+Always learning, always improving
 
 <!--
 **Deepanshu-Panwarr/Deepanshu-Panwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
