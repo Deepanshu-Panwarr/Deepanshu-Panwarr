@@ -39,7 +39,7 @@ Git | GitHub | VS Code
 
 ## Connect with me
 Portfolio Website:
-https://Deepanshu-Panwar.github.io/Portfolio-Website/
+https://deepanshu-panwarr.github.io/Portfolio-Website/
 
 LinkedIn:
 https://www.linkedin.com/in/deepanshu-panwar-155103416
