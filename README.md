@@ -38,7 +38,8 @@ Git | GitHub | VS Code
 ---
 
 ## Connect with me
-LinkedIn: www.linkedin.com/in/deepanshu-panwar-155103416
+LinkedIn:
+https://www.linkedin.com/in/deepanshu-panwar-155103416
 
 ---
 
