@@ -39,6 +39,7 @@ Git | GitHub | VS Code
 
 ## Projects
 Python Code Explainer: https://code-explainer-web-application.onrender.com/
+SMS Spam Detection System: https://sms-spam-detection-web-app.onrender.com/
 
 ---
 
